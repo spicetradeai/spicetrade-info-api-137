@@ -1,0 +1,15 @@
+{
+  "name": "Polygon Blocks",
+  "schemaPath": "schema.graphql",
+  "extensions": {
+    "endpoints": {
+      "Polygon Blocks": {
+        "url": "https://api.thegraph.com/subgraphs/name/radioshackcreator/blocks-polygon",
+        "headers": {
+          "user-agent": "JS GraphQL"
+        },
+        "introspect": false
+      }
+    }
+  }
+}
